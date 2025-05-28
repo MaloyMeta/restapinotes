@@ -1,0 +1,37 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+
+# Environment
+.env
+*.env
+
+# Temporary files
+*.swp
+*.tmp
+*.bak
+
+# Test reports
+test-results/
+test-output/
+reports/
+
+# Dependency caches (optiona
